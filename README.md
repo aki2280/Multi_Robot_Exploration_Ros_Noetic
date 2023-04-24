@@ -27,14 +27,6 @@ The following libraries are required to install before proceeding to run the cod
     $ sudo apt-get install ros-noetic-multirobot-map-merge
 
 
-## Installation Process
-create a new folder called "catkin_explore/src" by executing the following comment:
-
-    $ sudo mkdir -p ~/catkin_explore/src
-    $ cd ~/catkin_explore/src/
-    $ git clone https://github.com/hikashi/multi-robot-rrt-exploration-noetic.git
-    $ cd ~/catkin_explore
-    $ catkin_make
 
 ## Add in Amazon Map
 add in the amazon world map by executing the following comments:
